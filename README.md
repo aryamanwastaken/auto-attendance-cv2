@@ -5,7 +5,7 @@ This is the submission for our group project which was an automated robot attend
 HARDWARE USED:
 Quadbot (Caterpillar treads, Metal Box Chasis)
 - Raspberry Pi 3 Model B
-- ~~RPI Camera Module~~ w Pan Hat/ Logitech Webcam
+- ~~RPI Camera Module~~ w Pan-TILT Hat/ Logitech Webcam
 - HC-SR04 ultrasonic sensor
 - PIR Motion Sensor
 - HD44780 Display
